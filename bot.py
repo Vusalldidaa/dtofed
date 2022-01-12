@@ -43,7 +43,7 @@ async def help(event):
         Button.url('⚜️ Sahib', 'https://t.me/VusalDeveloper')
       ]
     )
-  )https://t.me/Mr_KABUS_13
+  )https://t.me/VusalDeveloper
   
 @client.on(events.NewMessage(pattern="^/all ?(.*)"))
 async def mentionall(event):
