@@ -39,11 +39,11 @@ async def help(event):
     link_preview=False,
     buttons=(
       [
-        Button.url('🇦🇿 XAOS Resmi', 'https://t.me/XXAOSResmi'),
-        Button.url('⚜️ Sahib', 'https://t.me/Mr_KABUS_13')
+        Button.url('🇦🇿 DTÖ Rəsmi', 'https://t.me/DTOresmi'),
+        Button.url('⚜️ Sahib', 'https://t.me/VusalDeveloper')
       ]
     )
-  )
+  )https://t.me/Mr_KABUS_13
   
 @client.on(events.NewMessage(pattern="^/all ?(.*)"))
 async def mentionall(event):
